@@ -16,3 +16,8 @@ for install
  cmake -DCPP11_NO_BOOSR=1 .. 
  make -j4
  ```
+
+安装eigen3
+```
+sudo apt-get install libeigen3-dev
+```
